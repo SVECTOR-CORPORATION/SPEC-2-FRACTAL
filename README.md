@@ -25,7 +25,7 @@
 | Parameters             | 30 billion                 |
 | Architecture           | (SPEC) Fractal-based |
 | Encoder Mechanism      | Hierarchical Attention-based Encoder |
-| Training Dataset       | Diverse global dataset of 3.8 billion images |
+| Training Dataset       | Diverse global dataset of 4.8 billion images |
 | Input Formats          | Text, image, and multimodal |
 | Output Resolution      | Up to 4K resolution        |
 | Framework              | PyTorch, TensorFlow + Custom Extensions |
@@ -47,7 +47,7 @@
 | FID (Lower is better)  | 2.87              | 4.28              |
 | Inception Score        | 10.25             | 8.45              |
 | Latency (ms)           | 110               | 200               |
-| Training Time (hrs)    | 2,500             | 4,000             |
+| Training Time (hrs)    | 6,500             | 4,000             |
 
 ### Comparison Graphs
 ![Benchmark Graph](https://github.com/user-attachments/assets/901f3502-54d3-44ca-a19a-f9780d164a03)
